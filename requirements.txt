@@ -1,0 +1,15 @@
+# Azure AI Foundry + identity
+azure-ai-inference
+azure-ai-projects>=2.1.0
+azure-identity
+
+# Agent framework
+langchain
+langchain-azure-ai
+langchain-openai
+
+# Microsoft Graph / Teams
+msgraph-sdk
+
+# Utilities
+python-dotenv
