@@ -1,3 +1,4 @@
+.copilot-tracking/posts/
 # Credentials — never commit
 .env
 .env.template
